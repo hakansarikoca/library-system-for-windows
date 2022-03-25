@@ -1,0 +1,12 @@
+C:\Users\hakan\source\repos\GorselProgramlama1\GorselProgramlama1\bin\Debug\GorselProgramlama1.exe.config
+C:\Users\hakan\source\repos\GorselProgramlama1\GorselProgramlama1\bin\Debug\GorselProgramlama1.exe
+C:\Users\hakan\source\repos\GorselProgramlama1\GorselProgramlama1\bin\Debug\GorselProgramlama1.pdb
+C:\Users\hakan\source\repos\GorselProgramlama1\GorselProgramlama1\obj\Debug\GorselProgramlama1.csproj.AssemblyReference.cache
+C:\Users\hakan\source\repos\GorselProgramlama1\GorselProgramlama1\obj\Debug\GorselProgramlama1.Form1.resources
+C:\Users\hakan\source\repos\GorselProgramlama1\GorselProgramlama1\obj\Debug\GorselProgramlama1.Properties.Resources.resources
+C:\Users\hakan\source\repos\GorselProgramlama1\GorselProgramlama1\obj\Debug\GorselProgramlama1.csproj.GenerateResource.cache
+C:\Users\hakan\source\repos\GorselProgramlama1\GorselProgramlama1\obj\Debug\GorselProgramlama1.csproj.CoreCompileInputs.cache
+C:\Users\hakan\source\repos\GorselProgramlama1\GorselProgramlama1\obj\Debug\GorselProgramlama1.exe
+C:\Users\hakan\source\repos\GorselProgramlama1\GorselProgramlama1\obj\Debug\GorselProgramlama1.pdb
+C:\Users\hakan\source\repos\GorselProgramlama1\GorselProgramlama1\obj\Debug\GorselProgramlama1.Uygulama.resources
+C:\Users\hakan\source\repos\GorselProgramlama1\GorselProgramlama1\obj\Debug\GorselProgramlama1.Kayit.resources
